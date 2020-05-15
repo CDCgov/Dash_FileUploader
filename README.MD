@@ -6,6 +6,14 @@ The File Uploader is at the top of app. You can upload your own csv file, and th
 
 The mpg and iris dataset are download from the R dataset repository.
 
+## Dependency and How to run
+This code depends on Python3, dash, and pandas.
+
+Run the code with the following command:
+```
+python3 app_file_loader.py
+```
+
 ## Author
 Jiangwei Yao
 
